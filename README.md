@@ -5,7 +5,7 @@ This SQL project models an Online Bookstore, showcasing how to design, create, a
 
 🧾 Project Overview
 **Database:** OnlineBookstore
-**Tables: **Books, Customers, Orders
+**Tables: ** Books, Customers, Orders
 
 This project demonstrates:
 
