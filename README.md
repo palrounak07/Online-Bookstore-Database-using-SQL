@@ -1,4 +1,6 @@
 📚 Online Bookstore Database Using SQL
+
+
 This SQL project models an Online Bookstore, showcasing how to design, create, and query a relational database to manage books, customers, and orders. The queries deliver insights into book inventory, sales trends, customer behaviors, and revenue generation — providing practical experience in database management and analytical SQL.
 
 🧾 Project Overview
