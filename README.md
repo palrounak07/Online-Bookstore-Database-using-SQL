@@ -2,18 +2,19 @@
 This SQL project models an Online Bookstore, showcasing how to design, create, and query a relational database to manage books, customers, and orders. The queries deliver insights into book inventory, sales trends, customer behaviors, and revenue generation — providing practical experience in database management and analytical SQL.
 
 🧾 Project Overview
-Database: OnlineBookstore
-Tables: Books, Customers, Orders
+**Database:** OnlineBookstore
+**Tables: **Books, Customers, Orders
 
 This project demonstrates:
 
-Database Schema Design: Logical table structures with primary and foreign keys.
+**1. Database Schema Design:** Logical table structures with primary and foreign keys.
 
-CRUD Operations: Create, read, and aggregate data effectively.
+**2. CRUD Operations:** Create, read, and aggregate data effectively.
 
-Practical Queries: Insights into sales, stock management, customer segmentation, and revenue analysis.
+**3. Practical Queries:** Insights into sales, stock management, customer segmentation, and revenue analysis.
 
 📈 Key Analysis & Queries
+
 1️⃣ Data Overview & Inventory Management
 View all books by genre, publication year, and stock levels.
 
